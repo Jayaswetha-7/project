@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes moveTruck {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.truck-animation {
+  position: absolute;
+  left: 0;
+  animation: moveTruck 4s linear forwards;
+  /* background-color: black; */
+  height: 100px;
+  width: 100px;
+}

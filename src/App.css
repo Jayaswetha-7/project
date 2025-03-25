@@ -1,0 +1,90 @@
+/* Default LTR styles */
+body {
+  font-family: Arial, sans-serif;
+  text-align: left;
+  direction: ltr;
+}
+
+/* RTL Styles for Arabic */
+html[dir="rtl"] body {
+  /* image missing when using this */
+  direction: rtl;  
+  text-align: right;
+}
+
+
+
+/* footer */
+/* Adjust for RTL layout */
+html[dir="rtl"] .footer {
+  flex-direction: row-reverse;
+  text-align: right;
+}
+html[dir="rtl"] .border-l {
+  border-left: 0;
+  border-right: 2px solid white; /* Adjust thickness and color */
+  padding-right: 0.5rem; /* Adjust padding */
+}
+
+
+/* Used for landing Page */
+html[dir="rtl"] .imageCard{
+  /* image missing when using this */
+  direction: ltr;  
+  text-align: right;
+}
+/* Landing Card Text */
+html[dir="rtl"] .landing_text {
+  margin-right: 10vw;
+  direction: rtl;  
+  text-align: right;
+}
+
+
+/* Reverse navbar and other layouts dynamically */
+html[dir="rtl"] .app {
+  flex-direction: row-reverse;
+}
+
+html[dir="rtl"] nav ul {
+  text-align: center;
+}
+
+html[dir="rtl"] .lang-switch {
+  left: 10px;
+  right: auto;
+}
+
+.lang-switch {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+}
+
+.lang-switch select {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.lang-switch select:hover {
+  background-color: #0056b3;
+}
+
+.headingText{
+  background: linear-gradient(to right,#91267f, #7b339c, #c94e29,#8f68ff,#c42e36);
+  background-size: 200%;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: animate-gradient 2.5s linear infinite;
+}
+
+@keyframes animate-gradient{
+  to{
+    background-position: 200%;
+  }
+}

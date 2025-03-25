@@ -1,0 +1,249 @@
+{
+  "Navbar_About": "About",
+  "Navbar_Service": "Service",
+  "Navbar_Partners": "Partners",
+  "Navbar_Contact": "Contact",
+
+  "Home_Innovative": "Innovative Solutions for",
+  "Home_All": "All Your Logistics Needs",
+  "Home_Getquote": "Get a Quote",
+
+  "Aboutsect_aboutus": " About Us",
+  "Aboutsect_Providing": "Providing Global Freight Forwarding Solutions",
+  "Aboutsect_Learn": "Learn More",
+  "Aboutsect_Global": "Global freight forwarding solutions facilitate the seamless  transportation of goods across international borders through a network of logistics services. These solutions include air, sea, and land freight, customs clearance, warehousing, and supply chain management. By leveraging industry expertise and technology, freight forwarders ensure efficient, cost-effective, and compliant shipping for businesses worldwide.",
+
+  "ServiceSection_services": {
+    "air": {
+      "title": "Air Freight",
+      "desc": "Expedited global shipping with priority handling for time-sensitive cargo"
+    },
+    "ocean": {
+      "title": "Ocean Freight",
+      "desc": "Cost-effective solutions for large-volume shipments via FCL & LCL services"
+    },
+    "road": {
+      "title": "Road & Rail Freight",
+      "desc": "Secure and flexible inland transportation to ensure last-mile connectivity"
+    },
+    "customs": {
+      "title": "Customs Clearance",
+      "desc": "Expert handling of import/export documentation and regulatory compliance"
+    },
+    "warehouse": {
+      "title": "Warehouse",
+      "desc": "Strategically located facilities for optimized storage and fulfillment"
+    },
+    "end": {
+      "title": "End-to-End Tracking",
+      "desc": "Strategically located facilities for optimized storage and fulfillment"
+    }
+  },
+  "Servicesection_Our": "Our Services",
+
+  "NewsEvents_EventData": {
+    "day1": {
+      "date": "June 14 ,2025",
+      "desc": "Our new office in Kuwait is now open for business"
+    },
+    "day2": {
+      "date": "January 24 ,2025",
+      "desc": "Sofia Joined our team as a new marketing manager"
+    }
+  },
+
+  "NewsEvents_news": "News & Events",
+  "NewsEvents_Latest": "Latest",
+  "NewsEvents_industry": "Industry",
+  "NewsEvents_insight": "Insights from",
+  "NewsEvents_discover": "Discover expert insights on global shipping, trade compliance, and innovative strategies to streamline your logistics operations worldwide.",
+
+  "WeCanDo_we": "We can Do it",
+  "WeCanDo_perfect": "Perfecting logistics to power seamless supply chains",
+  "WeCanDo_stats": {
+    "cont": {
+      "label": "Container Fleet"
+    },
+    "happy": {
+      "label": "Happy Customers"
+    },
+    "vehicle": {
+      "label": "Vehicle Fleet"
+    },
+    "empl": {
+      "label": "Employees"
+    }
+  },
+
+  "FleetMngmtCard_fleet": "Fleet Management System",
+
+  "FleetCard_card": {
+    "tracking": {
+      "title": "Real-Time Vehicle Tracking",
+      "desc": "Monitor fleet movements with GPS-based tracking for enhanced visibility"
+    },
+    "route": {
+      "title": "Route Optimization",
+      "desc": "Reduce fuel consumption and travel time with AI-powered route planning"
+    },
+    "fuel": {
+      "title": "Fuel Management",
+      "desc": "Track fuel usage, prevent fraud, and optimize costs"
+    },
+    "driver": {
+      "title": "Driver Behavior Monitoring",
+      "desc": "Ensure safety and efficiency by analyzing driving patterns"
+    },
+    "predictive": {
+      "title": "Predictive Maintenance",
+      "desc": "Prevent breakdowns with AI-driven maintenance alerts"
+    },
+    "compliance": {
+      "title": "Compliance & Reporting",
+      "desc": "Automate regulatory compliance and generate detailed reports"
+    },
+    "security": {
+      "title": "Fleet Security",
+      "desc": "Geofencing, remote immobilization, and theft prevention solutions"
+    },
+    "inventory": {
+      "title": "Inventory & Asset Management",
+      "desc": "Keep track of vehicle equipment, spare parts, and onboard assets to ensure efficient utilization and reduce losses"
+    }
+  },
+
+  "Testimonials_Our": "Our Client Says",
+  "Testimonials_testimonials": {
+    "SwiftRoute": {
+      "review": "'FIFO Logistics has been a game-changer for our business. We're in the e-commerce industry, and fast, reliable shipping is crucial.'"
+    },
+    "GlobalFlow": {
+      "review": "'As a small business owner, I was looking for a logistics partner who would understand my unique needs. FIFO Logistics has provided exceptional personalized service.'"
+    },
+    "Ascend": {
+      "review": " 'We were struggling to find a logistics company that offered competitive pricing without sacrificing quality of service. FIFO Logistics has been a game-changer in that regard.' "
+    }
+  },
+
+  "Footer_services": "Services",
+  "Footer_footerLinks": {
+    "ocean": "Ocean Freight",
+    "air": "Air Freight",
+    "transportation": "Road & Rail Freight",
+    "warehousing": "Warehousing",
+   
+
+    "supply": "End to End Tracking",
+    "custom": "Custom Clearance"
+  },
+  "Footer_menu": "Menu",
+  "Footer_mainMenu": {
+    "Home": "Home",
+    "About": "About",
+    "Services": "Services",
+    "Contact": "Contact"
+  },
+  "Footer_about": "About Us",
+  "Footer_global": "Global freight forwarding solutions facilitate the seamless transportation of goods across international borders through a network of logistics services.",
+  "Footer_rights": " All rights reserved. Developed by",
+
+  "Footer_yes": "Yes. It's animated by default, but you can disable it if you prefer.",
+  "Footer_Contactus": "Contact us",
+
+  "MapSec_contactdet": {
+    "map": {
+      "contact_text": "King Abdulaziz International Port, Dammam"
+    },
+    "mail": {
+      "text": "operations@fifoim.com"
+    },
+    "phone": {
+      "text": "+966536299334"
+    },
+    "whatsapp": {
+      "text": "+966540461090"
+    }
+  },
+
+  "Servicepg_Our": "Our Services",
+  "Servicepg_See": "See All Services",
+  "Servicespg_services": {
+    "airfrt": {
+      "title": "Air Freight",
+      "desc": "Our air freight services provide swift, reliable, and secure transportation for urgent shipments worldwide. Leveraging a global network of airlines and logistics partners, we ensure your cargo reaches its destination quickly, with real-time tracking and customized solutions for perishable goods, high-value items, and oversized cargo. We handle all documentation, customs clearance, and compliance, offering 24/7 support to meet your tight deadlines. Whether for e-commerce, manufacturing, or retail, our air freight solutions optimize speed, reduce transit times, and enhance supply chain efficiency, ensuring your business stays ahead in a competitive market."
+    },
+    "oceanfrt": {
+      "title": "Ocean Freight",
+      "desc": "Our ocean freight services offer cost-effective, sustainable solutions for transporting large volumes of goods across continents. With access to major shipping routes and a fleet of container vessels, we ensure timely delivery for bulk cargo, raw materials, and finished products. We manage full-container loads (FCL), less-than-container loads (LCL), and specialized cargo, handling all customs, port logistics, and documentation. Our eco-friendly approach minimizes carbon footprints, while real-time tracking and expert support guarantee seamless operations. Ideal for importers, exporters, and manufacturers, our ocean freight services optimize cost, reliability, and global reach for your logistics needs."
+    },
+    "roadfrt": {
+      "title": "Road & Rail Freight",
+      "desc": "Our road and rail freight services deliver flexible, efficient, and environmentally friendly transportation for domestic and regional shipments. Combining truck fleets with rail networks, we ensure fast, cost-effective delivery of goods, from small parcels to heavy machinery. Our solutions cover urban, rural, and cross-border routes, with real-time tracking, secure handling, and compliance with local regulations. Ideal for industries like manufacturing, retail, and construction, we optimize routes to reduce transit times and costs while minimizing emissions. With 24/7 support and advanced logistics expertise, we keep your supply chain moving smoothly and reliably."
+    },
+    "customsclr": {
+      "title": "Customs Clearance",
+      "desc": "Our customs clearance services streamline international trade by ensuring seamless, compliant processing of your shipments. With expert knowledge of global tariffs, regulations, and documentation, we navigate complex customs procedures to minimize delays and penalties. We handle import/export declarations, duty calculations, and inspections, offering personalized solutions for businesses of all sizes. Our real-time tracking and proactive communication keep you informed at every step, reducing risk and ensuring compliance. Whether shipping by air, ocean, or land, our dedicated team accelerates your goods clearance, enhancing efficiency and supporting your logistics operations worldwide."
+    },
+    "warehouse": {
+      "title": "Warehouse",
+      "desc": "Our warehousing services provide secure, state-of-the-art storage solutions to optimize your supply chain. Equipped with advanced inventory management systems, climate control, and 24/7 security, we store a wide range of goods, from perishables to hazardous materials. We offer value-added services like pick-and-pack, kitting, and order fulfillment, ensuring efficient distribution. Our strategic locations near ports and transport hubs reduce transit times, while real-time tracking enhances visibility. Ideal for e-commerce, manufacturing, and retail, our flexible warehousing solutions scale with your business, improving inventory accuracy, cost efficiency, and customer satisfaction."
+    },
+    "end": {
+      "title": "End-to-End Tracking",
+      "desc": "Our end-to-end tracking services provide complete visibility and control over your shipments from origin to destination. Using cutting-edge technology, we offer real-time updates, GPS tracking, and detailed analytics to monitor every stage of your logistics process. Whether by air, ocean, road, or rail, our system ensures transparency, minimizes risks, and improves decision-making. We integrate with your existing systems for seamless reporting and alerts, supported by our expert team. Perfect for businesses seeking reliability and accountability, our tracking solutions enhance efficiency, reduce delays, and ensure your cargo arrives on time, every time."
+    }
+  },
+  "AboutHerosection_about": " About us",
+  "AboutHerosection_delivering": "  Delivering Efficiency One Mile at a Time",
+  "AboutHerosection_foundation": " The foundation of the business consists of services such as international freight forwarding by air or ocean, contract logistics such as warehousing, and transportation (such as trucking). These services can act as standalone products or as part of our broader offering as a supply chain logistics provider.",
+  "AboutHerosection_real": " Real-time logistics",
+  "AboutHerosection_point": "On-point logistics",
+
+  "AboutSecondsection_why": "Why Choose Us",
+  "AboutSecondsection_if": "If you rely on air freight for your business, rely on Fifo for cost-effective, smooth delivery of your cargo via our air freight forwarding services. Thanks to our strategic alliances around the globe,  you have the flexibility to choose from a range of air freight service options tailored to your precise needs, complete with end-to-end visibility.",
+  "AboutSecondsection_read": "Read More",
+  "AboutSecondsection_Vision": "Our Vision",
+  "AboutSecondsection_global": " Fifo is a global supply chain logistics company that provides ocean and air freight forwarding, warehousing, distribution services, and supply chain management – a  seamlessly connected suite of supply chain solutions that delivers superior value, reliability, and expertise.",
+  "AboutSecondsection_Mission": "Our Mission",
+  "AboutSecondsection_mission": " The mission of our company, is to provide fast, secure, and cost-effective transportation and supply chain services, ensuring timely delivery and customer satisfaction.",
+  "AboutSecondsection_Need": " Need Our Service",
+  "AboutSecondsection_discus": "Discuss With Agents",
+  "AboutSecondsection_contact": "Contact with Us",
+
+  "AboutThirdsect_join": "Join Us Today",
+  "AboutThirdsect_partner": "Our Partners",
+  "AboutThirdsect_at": " At our company, we believe that partnerships are key to delivering exceptional logistics solutions. We're proud to collaborate with the several organizations to provide top-notch FIFO logistics services",
+
+  "Contactpg_contactdet": {
+    "loc": {
+      "title": "Address",
+      "content": "King Abdulaziz International Port, Dammam"
+    },
+    "phone": {
+      "title": "Let's talk",
+      "content": "+966 123 456 7890"
+    },
+    "email": {
+      "title": "Send us email",
+      "content": "contact@example.com"
+    }
+  },
+
+  "Contactpg_h1": "Leave Your Message",
+
+  "Contactpg_contact": {
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone No.",
+    "message": "Message"
+  },
+  "Contactpg_ContactUs": "Contact Us",
+  "Contactpg_Send": "Send Message",
+
+  "Partners_page": {
+    "join": "Join FIFO Partner's Program",
+    "earn": "Earn commissions every time your referral converts to an FIFO customer",
+    "get_started": "Let's Get Started",
+    "login": "Log in"
+  }
+}
