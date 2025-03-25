@@ -11,7 +11,7 @@ import emailjs from "emailjs-com";
 
 const client = new Client();
 client
-  .setEndpoint(import.meta.env.VITE_APPWRITE_ENDPOINT) // Your Appwrite endpoint
+  // .setEndpoint(import.meta.env.VITE_APPWRITE_ENDPOINT) // Your Appwrite endpoint
   .setProject(import.meta.env.VITE_APPWRITE_PROJECT_ID); // Your Appwrite project ID
 
 const databases = new Databases(client);
